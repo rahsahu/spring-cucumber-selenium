@@ -5,7 +5,7 @@ target/
 src/test/resources/selenium_standalone_binaries/
 src/test/resources/selenium_standalone_zips/
 *.DS_Store
-viu-browser-automation.iml
+**browser-automation.iml
 test-output/
 .settings/
 src/test/resources/geckodriver

@@ -25,7 +25,7 @@ import com.e2e.utils.ServerUtil;
  *
  */
 @Configuration
-@ComponentScan({ "com.viu" })
+@ComponentScan({ "com.e2e" })
 @PropertySource("classpath:config/globleConfig.properties")
 
 public class AutoSpringConfig {

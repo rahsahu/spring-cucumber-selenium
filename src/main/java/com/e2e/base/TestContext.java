@@ -21,8 +21,5 @@ public class TestContext {
 
 	public static String TIMEOUT = "20000";
 
-	public static String gmailUserEmail = "peautomationvuclip@gmail.com";
-
-	public static String gmailUserPd = "vuclipauto1";
 
 }

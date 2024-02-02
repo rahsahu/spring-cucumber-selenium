@@ -9,7 +9,7 @@
 
 		<selenium.version>3.141.59</selenium.version>
 		<cucumber.java.version>1.2.5</cucumber.java.version>
-		<spring.version>5.0.10.RELEASE</spring.version>
+		<spring.version>5.2.22.RELEASE</spring.version>
 	</properties>
 	<dependencies>
 		<dependency>
